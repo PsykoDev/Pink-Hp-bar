@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Pink Hp-bar",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Pink Hp-bar",
+        "cliName": "Pink Hp-bar"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Pink-Hp-bar/master"],
+    "supportUrl": "https://github.com/PsykoDev/Pink-Hp-bar/issues",
+    "description": "Pink Hp-bar"
+}
